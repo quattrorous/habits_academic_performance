@@ -1,4 +1,5 @@
 # habits_academic_performance
+**Note:** To run the notebook, make sure the `student_habits_performance.csv` file is in the same working directory as the notebook or adjust the file path accordingly.
 ## Project Summary
 
 This project investigates whether academic performance can be predicted from self-reported student lifestyle habits. Using a dataset of 1,000 synthetic student profiles, nine regression models were evaluated and compared.
